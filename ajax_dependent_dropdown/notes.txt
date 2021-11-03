@@ -1,0 +1,14 @@
+-> Dependent Dropdown 
+   -> create database 
+     -> 3 tables 
+       1. country
+         id 
+         name
+       2. state 
+         id 
+         name 
+         country_id
+       3. cities 
+         id 
+         name 
+         state_id
